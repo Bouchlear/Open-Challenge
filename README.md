@@ -6,5 +6,6 @@ To submit your hack, create a pull request from your team's named branch
 Submission PR title format: [OPEN-CHALLENGE] [team-name]
 Juding will take place at the end of the hackathon
 One submission per team
+
 #Resources
 [Quantum Chemistry](arXiv:1812.09976v2 [quant-ph] 28 Dec 2018)
